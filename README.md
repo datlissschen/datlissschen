@@ -39,12 +39,6 @@ Currently I am a dual student studying computer science in cooperation with @Bos
 ![](https://github-contributor-stats.vercel.app/api?username=datlissschen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=datlissschen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=datlissschen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=datlissschen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 ## ✍️ Daily Inspiration
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
